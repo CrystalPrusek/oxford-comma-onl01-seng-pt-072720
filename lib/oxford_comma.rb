@@ -9,4 +9,3 @@ array=["fiddleheads","okra","kohlrabi"]
         array.join
     end
 end
-end
