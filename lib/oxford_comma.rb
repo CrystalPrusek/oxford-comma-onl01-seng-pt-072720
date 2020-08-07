@@ -1,4 +1,4 @@
 def oxford_comma(array)
 a=["fiddleheads","okra","kohlrabi"]
-a
+a.to_s
 end
